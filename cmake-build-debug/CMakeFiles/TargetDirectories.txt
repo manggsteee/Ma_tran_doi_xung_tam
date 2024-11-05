@@ -1,0 +1,3 @@
+C:/Users/honag/CLionProjects/Ma_tran_doi_xung_tam/cmake-build-debug/CMakeFiles/Ma_tran_doi_xung_tam.dir
+C:/Users/honag/CLionProjects/Ma_tran_doi_xung_tam/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/honag/CLionProjects/Ma_tran_doi_xung_tam/cmake-build-debug/CMakeFiles/rebuild_cache.dir
